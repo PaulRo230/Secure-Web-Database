@@ -7,28 +7,28 @@ A secure PHP web application demonstrating encryption, integrity protection, rol
 ## Application Screenshots
 
 ### Login (HTTPS Enabled)
-![Login Page](screenshots/login.png)
+![Login Page](screenshots/Login.png)
 
 ### Profile Page - Admin
-![Admin Profile](screenshots/profile.png)
+![Admin Profile](screenshots/Profile.png)
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/dashboard.png)
+![Admin Dashboard](screenshots/Dashboard.png)
 
 ### Submit Data
-![Submit Data](screenshots/submit_data.png)
+![Submit Data](screenshots/Submit_Data.png)
 
 ### View Data (Admin – Integrity OK and Tampered Detected)
-![View Data Admin OK and Tampered](screenshots/view_data_admin.png)
+![View Data Admin OK and Tampered](screenshots/View_Data_Admin.png)
 
 ### View Data (User Role)
-![View Data User](screenshots/view_data_user.png)
+![View Data User](screenshots/View_Data_User.png)
 
 ### View Data (Guest Role)
-![View Data Guest](screenshots/view_data_guest.png)
+![View Data Guest](screenshots/View_Data_Guest.png)
 
 ### Activity Log (Security Auditing)
-![Activity Log](screenshots/activity_logs.png)
+![Activity Log](screenshots/Activity_Logs.png)
 
 ## Features
 - AES-256-CBC encryption for sensitive data at rest
