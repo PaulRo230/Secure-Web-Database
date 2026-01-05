@@ -1,0 +1,13 @@
+# Do not commit secrets
+config.php
+
+# OS junk
+.DS_Store
+
+# Logs
+*.log
+
+# Optional
+.env
+/vendor/
+node_modules/
